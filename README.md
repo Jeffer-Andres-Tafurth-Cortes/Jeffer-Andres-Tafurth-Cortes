@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 👋¡Hola! Soy Jeffer Tafurth un apasionado por el desarrollo web<br>💼Mi enfoque es el desarrollo del lado del Front-End<br><br>💻Con solida formacion en:<br>✔ HTML<br>✔ CSS<br>✔ JavaScript<br><br>💻Tambien cuento con conocimientos en:<br>✔ GIT<br>✔ Boostrap<br>✔ SASS<br>✔ jQuery<br>✔ React<br>✔ Typescript<br>✔ Redux<br><br>❤ Estoy emocionado por la oportunidad de seguir creciendoy aprendiendo en el mundo del desarrollo front-end.<br>Siempre estoy dispuesto a enfrentar nuevos desafíos y aportar mi pasión por la creación de experiencias web excepcionales.<br><br>¡Hablemos sobre cómo puedo contribuir a tu equipo y proyectos! Conéctate conmigo y comencemos la conversación.<br><br>
 
 
